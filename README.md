@@ -1,5 +1,7 @@
 ### 🚧 Under Construction 🚧
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekcode&" alt="prateekcode"/></p>
+
 <!--
 **prateekcode/prateekcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
