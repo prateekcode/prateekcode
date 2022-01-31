@@ -1,8 +1,8 @@
 ### 🚧 Under Construction 🚧
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=prateekcode&label=Profile%20views&color=0e75b6&style=flat"
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=prateekcode&label=Profile%20views&color=0e75b6&style=flat"
                      alt="prateekcode"/></p>
-<p></p>
+<p></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekcode&" alt="prateekcode"/></p>
 
 <!--
